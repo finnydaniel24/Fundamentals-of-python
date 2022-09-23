@@ -1,0 +1,12 @@
+#python
+a=int(input())
+b=int(input())
+c=int(input())
+d=float(input())
+i=a*a
+j=b*c
+k=3.14
+l=k*d*d
+print(i)
+print(j)
+print("%.2f"%l)
